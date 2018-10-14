@@ -1,6 +1,9 @@
 #+TITLE: 杰杰的learning 资源
+
 #+Author: Joy Dong
+
 #+EMAIL: joydonglinux@gmail.com
+
 
 * First
 
