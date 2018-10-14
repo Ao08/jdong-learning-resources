@@ -1,3 +1,1 @@
-This is my big
-
-This is my second News 
+#+TITLE: 杰杰的learning 资源
