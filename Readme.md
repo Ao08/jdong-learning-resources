@@ -91,6 +91,7 @@
 ### Assembly(*汇编相关*)
 
 | 中文描述                                                 | 相关链接                                                        |
+| -----------------------------------                      | :----------------------------------:                            |
 | Debugger data model, Javascript & x64 exception handling | [https://doar-e.github.io/blog/2017/12/01/debugger-data-model/] |
 | Linux Assembly HOWTO                                     | [http://www.tldp.org/HOWTO/pdf/Assembly-HOWTO.pdf]              |
 | inline hook                                              | [https://bbs.pediy.com/thread-188324.htm]                       |
@@ -212,6 +213,7 @@
 ### Math(*Math 挑战*)
 
 | 中文描述                                         | 相关链接                                                                                                 |
+| -----------                                      | :----------------:                                                                                       |
 | Kolmogorov Complexity and Our Search for Meaning | [http://nautil.us/issue/63/horizons/kolmogorov-complexity-and-our-search-for-meaning]                    |
 | Dijkstra's in Disguise                           | [https://blog.evjang.com/2018/08/dijkstras.html]                                                         |
 | 2048游戏(马尔可夫最优解处理)                     | [http://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html?href=]                           |
@@ -228,6 +230,7 @@
 ### Window Security(*windows 安全*)
 
 | 中文描述           | 相关链接                                   |
+| -----------------  | :------------------------------:           |
 | Intel meltdown POC | [https://github.com/GitMirar/meltdown-poc] |
 |                    |                                            |
 
@@ -252,6 +255,7 @@
 ### 公开课
 
 | 中文描述             | 相关链接                                                                                           |
+| ------------------   | :---------------------------------------:                                                          |
 | 卡内基梅隆大学公开课 | [https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d8c83d3a-8074-4afe-ae3b-693e2250999a] |
 | 开发者视频集锦       | [https://dev.tube/]                                                                                |
 | The Human Brain      | [https://nancysbraintalks.mit.edu/course/9-11-the-human-brain]                                     |
